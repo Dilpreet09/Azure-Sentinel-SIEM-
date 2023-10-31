@@ -12,6 +12,8 @@ When I was preparing for CompTIA Security+, I delved into the concepts of honeyp
 <h2>Utilitie Used</h2>
 - <b>ipgeolocation.io: IP Address to Geolocation API</b>
 
+<h2>Reference</h2>
+- https://youtu.be/RoZeVbbZ0o0?si=8QuRoo-emEhjQEok
 
 <h2>Program walk-through:</h2>
 
